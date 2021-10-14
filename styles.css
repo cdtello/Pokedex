@@ -66,3 +66,9 @@ input {
     color: #000;
     border: 2px solid rgb(70, 45, 141);
 }
+
+#prueba {
+    border-radius: 5px;
+    color: rgb(175, 79, 79);
+    border: 2px solid rgb(38, 155, 130);
+}
