@@ -78,3 +78,9 @@ input {
     color: #000;
     border: 2px solid rgb(139, 39, 86);
 }
+
+#elberM {
+    border-radius: 4px;
+    color: rgb(180, 38, 157);
+    border: 2px solid rgb(149, 161, 38);
+}
