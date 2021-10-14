@@ -60,3 +60,9 @@ input {
     width: 180px;
     border-radius: 50%;
 }
+
+#test1 {
+    border-radius: 4px;
+    color: #000;
+    border: 2px solid rgb(70, 45, 141);
+}

@@ -49,7 +49,6 @@ const searchPokemon = event => {
         complete : function(xhr, status) {
             alert('Petición realizada');
         }
-
       })
     
     // fetch(`https://pokeapi.co/api/v2/pokemon/${value.toLowerCase()}`)
