@@ -72,3 +72,9 @@ input {
     color: #000;
     border: 2px solid rgb(53, 8, 236);
 }
+
+#lauraR {
+    border-radius: 4px;
+    color: #000;
+    border: 2px solid rgb(139, 39, 86);
+}
