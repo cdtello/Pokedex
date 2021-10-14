@@ -66,3 +66,9 @@ input {
     color: #000;
     border: 2px solid rgb(70, 45, 141);
 }
+
+#ctello {
+    border-radius: 4px;
+    color: #000;
+    border: 2px solid rgb(53, 8, 236);
+}
